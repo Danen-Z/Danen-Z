@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Danen-Z
-- 👀 I’m interested in learning new programming languages
-- 🌱 I’m currently learning CS50
-- 💞️ I’m looking to collaborate on anything related to java, python, c, c sharp
+- 👀 I’m interested in
+- 🌱 I’m currently 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me. By email ned.zlatano@gmail.com
 
 <!---
